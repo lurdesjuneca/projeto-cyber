@@ -10,6 +10,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base:"/projeto-cyber",
   resolve: {
     alias: {
       // Alias @ to the src directory
